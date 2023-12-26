@@ -17,7 +17,7 @@ namespace Tyuiu.ShabukovDV.SprintReview3.V7
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #3                                                                *");
-            Console.WriteLine("* Тема: Базовые навки работы в C#                                          *");
+            Console.WriteLine("* Тема: Базовые навыки работы в C#                                          *");
             Console.WriteLine("* Задание #7                                                               *");
             Console.WriteLine("* Вариант #7                                                               *");
             Console.WriteLine("* Выполнил: Шабуков Д. В. | СМАРТб-23-1                                    *");
